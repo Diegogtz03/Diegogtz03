@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diegogtz03
 - 👀 I’m interested in everything :)
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m currently diving deeply in C++ and python
 - 💞️ I’m looking to collaborate on projects that help me learn more
 - 📫 How to reach me A01284841@itesm.mx // diego_gtz_t@hotmail.com
