@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diegogtz03
+- 👋 Hi, I’m Guti
 - 👀 I’m interested in everything including Web Development, Generative AI and Full-Stack Development :)
 - 🌱 I’m currently diving deeply in C++ and Python
 - 📫 How to reach me A01284841@tec.mx // diego_gtz_t@hotmail.com
